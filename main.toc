@@ -1,0 +1,50 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Анализ предметной области}{5}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Описание предметной области}{5}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Методология Agile}{6}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Методология Kanban}{8}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}IT в России}{10}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Динамика и перспективы развития IT-сферы}{12}{subsection.1.5}%
+\contentsline {section}{\numberline {2}Техническое задание}{14}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Основание для разработки}{14}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Цель и назначение разработки}{14}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Актуальность темы разработки}{15}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Этапы разработки}{16}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Требования к программной системе}{17}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Требования к данным}{17}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}Функциональные требования}{17}{subsubsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {2.5.3}Сценарий прецедента «Регистрация»}{19}{subsubsection.2.5.3}%
+\contentsline {subsubsection}{\numberline {2.5.4}Сценарий прецедента «Аутентификация»}{20}{subsubsection.2.5.4}%
+\contentsline {subsubsection}{\numberline {2.5.5}Сценарий прецедента «Выход из системы»}{20}{subsubsection.2.5.5}%
+\contentsline {subsubsection}{\numberline {2.5.6}Сценарий прецедента «Просмотр профиля»}{20}{subsubsection.2.5.6}%
+\contentsline {subsubsection}{\numberline {2.5.7}Сценарий прецедента «Редактирование профиля»}{21}{subsubsection.2.5.7}%
+\contentsline {subsubsection}{\numberline {2.5.8}Сценарий прецедента «Удаление профиля»}{21}{subsubsection.2.5.8}%
+\contentsline {subsubsection}{\numberline {2.5.9}Сценарий прецедента «Создание нового проекта»}{22}{subsubsection.2.5.9}%
+\contentsline {subsubsection}{\numberline {2.5.10}Сценарий прецедента «Редактирование проекта»}{22}{subsubsection.2.5.10}%
+\contentsline {subsubsection}{\numberline {2.5.11}Сценарий прецедента «Удаление проекта»}{23}{subsubsection.2.5.11}%
+\contentsline {subsubsection}{\numberline {2.5.12}Сценарий прецедента «Управление участниками проекта»}{23}{subsubsection.2.5.12}%
+\contentsline {subsubsection}{\numberline {2.5.13}Сценарий прецедента «Создание доски»}{24}{subsubsection.2.5.13}%
+\contentsline {subsubsection}{\numberline {2.5.14}Сценарий прецедента «Редактирование доски»}{24}{subsubsection.2.5.14}%
+\contentsline {subsubsection}{\numberline {2.5.15}Сценарий прецедента «Удаление доски»}{25}{subsubsection.2.5.15}%
+\contentsline {subsubsection}{\numberline {2.5.16}Сценарий прецедента «Изменение порядка досок»}{25}{subsubsection.2.5.16}%
+\contentsline {subsubsection}{\numberline {2.5.17}Сценарий прецедента «Создание задачи»}{25}{subsubsection.2.5.17}%
+\contentsline {subsubsection}{\numberline {2.5.18}Сценарий прецедента «Просмотр задачи»}{26}{subsubsection.2.5.18}%
+\contentsline {subsubsection}{\numberline {2.5.19}Сценарий прецедента «Редактирование задачи»}{26}{subsubsection.2.5.19}%
+\contentsline {subsubsection}{\numberline {2.5.20}Сценарий прецедента «Удаление задачи»}{27}{subsubsection.2.5.20}%
+\contentsline {subsubsection}{\numberline {2.5.21}Сценарий прецедента «Перемещение задачи»}{27}{subsubsection.2.5.21}%
+\contentsline {subsection}{\numberline {2.6}Требования пользователя к интерфейсу web-интерфейса}{28}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Нефункциональные требования}{28}{subsection.2.7}%
+\contentsline {subsubsection}{\numberline {2.7.1}Требования к программному обеспечению}{28}{subsubsection.2.7.1}%
+\contentsline {subsection}{\numberline {2.8}Ограничения}{29}{subsection.2.8}%
+\contentsline {subsubsection}{\numberline {2.8.1}Требования к аппаратному обеспечению}{29}{subsubsection.2.8.1}%
+\contentsline {subsection}{\numberline {2.9}Требования к оформлению документации}{29}{subsection.2.9}%
+\contentsline {section}{\numberline {3}Технический проект}{30}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Общая характеристика организации решения задачи}{30}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Обоснование выбора технологии проектирования}{30}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Язык программирования JavaScript}{30}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Среда выполнения Node.js}{31}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Библиотека React}{31}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}PostgreSQL}{31}{subsubsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.3}Диаграмма компонентов}{31}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Структура базы данных}{33}{subsection.3.4}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{40}{table.7}%
