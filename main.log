@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.5.16)  3 JUN 2025 10:30
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.5.16)  3 JUN 2025 11:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -832,443 +832,455 @@ File: images/components_diagram.eps Graphic file (type eps)
 
 
 [32]
-File: images/er_diagram.eps Graphic file (type eps)
-<images/er_diagram.eps>
-
 
 [33]
-Underfull \hbox (badness 10000) in paragraph at lines 71--71
-[]|\TU/TimesNewRoman(0)/m/n/14.4 VARCHAR(255),
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--71
-\TU/TimesNewRoman(0)/m/n/14.4 UNIQUE, NOT
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--71
-[]|\TU/TimesNewRoman(0)/m/n/14.4 Адрес электронной почты
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--71
-[]|\TU/TimesNewRoman(0)/m/n/14.4 password_
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--71
-[]|\TU/TimesNewRoman(0)/m/n/14.4 VARCHAR(255),
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--71
-[]|\TU/TimesNewRoman(0)/m/n/14.4 middle_
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--71
-[]|\TU/TimesNewRoman(0)/m/n/14.4 BOOLEAN,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--71
-[]|\TU/TimesNewRoman(0)/m/n/14.4 TIMESTAMP
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--71
-\TU/TimesNewRoman(0)/m/n/14.4 WITH TIME
- []
-
-
-Underfull \hbox (badness 2158) in paragraph at lines 71--71
-\TU/TimesNewRoman(0)/m/n/14.4 ZONE, DEFAULT
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--71
-\TU/TimesNewRoman(0)/m/n/14.4 CURRENT_
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--71
-[]|\TU/TimesNewRoman(0)/m/n/14.4 TIMESTAMP
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--71
-\TU/TimesNewRoman(0)/m/n/14.4 WITH TIME
- []
-
-
-Underfull \hbox (badness 2158) in paragraph at lines 71--71
-\TU/TimesNewRoman(0)/m/n/14.4 ZONE, DEFAULT
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--71
-\TU/TimesNewRoman(0)/m/n/14.4 CURRENT_
- []
-
-
 
 [34]
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
-[]|\TU/TimesNewRoman(0)/m/n/14.4 VARCHAR(255),
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
-[]|\TU/TimesNewRoman(0)/m/n/14.4 owner_
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
-[]|\TU/TimesNewRoman(0)/m/n/14.4 INTEGER, FK,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
-\TU/TimesNewRoman(0)/m/n/14.4 users(user_id). Идентифика-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
-\TU/TimesNewRoman(0)/m/n/14.4 тор пользователя-владельца
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
-[]|\TU/TimesNewRoman(0)/m/n/14.4 TIMESTAMP
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
-\TU/TimesNewRoman(0)/m/n/14.4 WITH TIME
- []
-
-
-Underfull \hbox (badness 2158) in paragraph at lines 87--87
-\TU/TimesNewRoman(0)/m/n/14.4 ZONE, DEFAULT
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
-\TU/TimesNewRoman(0)/m/n/14.4 CURRENT_
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
-[]|\TU/TimesNewRoman(0)/m/n/14.4 TIMESTAMP
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
-\TU/TimesNewRoman(0)/m/n/14.4 WITH TIME
- []
-
-
-Underfull \hbox (badness 2158) in paragraph at lines 87--87
-\TU/TimesNewRoman(0)/m/n/14.4 ZONE, DEFAULT
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
-\TU/TimesNewRoman(0)/m/n/14.4 CURRENT_
+Underfull \hbox (badness 1019) in paragraph at lines 52--53
+[]\TU/TimesNewRoman(0)/m/n/14.4 Модуль TaskViewPage.jsx. Компонент страницы дет
+ального про-
  []
 
 
 
 [35]
-Underfull \hbox (badness 10000) in paragraph at lines 102--102
+
+[36]
+
+[37]
+
+[38]
+File: images/er_diagram.eps Graphic file (type eps)
+<images/er_diagram.eps>
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+[]|\TU/TimesNewRoman(0)/m/n/14.4 VARCHAR(255),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+\TU/TimesNewRoman(0)/m/n/14.4 UNIQUE, NOT
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Адрес электронной почты
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+[]|\TU/TimesNewRoman(0)/m/n/14.4 password_
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+[]|\TU/TimesNewRoman(0)/m/n/14.4 VARCHAR(255),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+[]|\TU/TimesNewRoman(0)/m/n/14.4 middle_
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+[]|\TU/TimesNewRoman(0)/m/n/14.4 BOOLEAN,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+[]|\TU/TimesNewRoman(0)/m/n/14.4 TIMESTAMP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+\TU/TimesNewRoman(0)/m/n/14.4 WITH TIME
+ []
+
+
+Underfull \hbox (badness 2158) in paragraph at lines 135--135
+\TU/TimesNewRoman(0)/m/n/14.4 ZONE, DEFAULT
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+\TU/TimesNewRoman(0)/m/n/14.4 CURRENT_
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+[]|\TU/TimesNewRoman(0)/m/n/14.4 TIMESTAMP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+\TU/TimesNewRoman(0)/m/n/14.4 WITH TIME
+ []
+
+
+Underfull \hbox (badness 2158) in paragraph at lines 135--135
+\TU/TimesNewRoman(0)/m/n/14.4 ZONE, DEFAULT
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+\TU/TimesNewRoman(0)/m/n/14.4 CURRENT_
+ []
+
+[39]
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
+[]|\TU/TimesNewRoman(0)/m/n/14.4 VARCHAR(255),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
+[]|\TU/TimesNewRoman(0)/m/n/14.4 owner_
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
+[]|\TU/TimesNewRoman(0)/m/n/14.4 INTEGER, FK,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
+\TU/TimesNewRoman(0)/m/n/14.4 users(user_id). Идентифика-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
+\TU/TimesNewRoman(0)/m/n/14.4 тор пользователя-владельца
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
+[]|\TU/TimesNewRoman(0)/m/n/14.4 TIMESTAMP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
+\TU/TimesNewRoman(0)/m/n/14.4 WITH TIME
+ []
+
+
+Underfull \hbox (badness 2158) in paragraph at lines 151--151
+\TU/TimesNewRoman(0)/m/n/14.4 ZONE, DEFAULT
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
+\TU/TimesNewRoman(0)/m/n/14.4 CURRENT_
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
+[]|\TU/TimesNewRoman(0)/m/n/14.4 TIMESTAMP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
+\TU/TimesNewRoman(0)/m/n/14.4 WITH TIME
+ []
+
+
+Underfull \hbox (badness 2158) in paragraph at lines 151--151
+\TU/TimesNewRoman(0)/m/n/14.4 ZONE, DEFAULT
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
+\TU/TimesNewRoman(0)/m/n/14.4 CURRENT_
+ []
+
+[40]
+Underfull \hbox (badness 10000) in paragraph at lines 166--166
 []|\TU/TimesNewRoman(0)/m/n/14.4 project_
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--102
+Underfull \hbox (badness 10000) in paragraph at lines 166--166
 []|\TU/TimesNewRoman(0)/m/n/14.4 INTEGER, FK,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--102
+Underfull \hbox (badness 10000) in paragraph at lines 166--166
 []|\TU/TimesNewRoman(0)/m/n/14.4 Внешний ключ, ссылает-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--102
+Underfull \hbox (badness 10000) in paragraph at lines 166--166
 \TU/TimesNewRoman(0)/m/n/14.4 ся на projects(project_id).
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--102
+Underfull \hbox (badness 10000) in paragraph at lines 166--166
 []|\TU/TimesNewRoman(0)/m/n/14.4 INTEGER, FK,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--102
+Underfull \hbox (badness 10000) in paragraph at lines 166--166
 []|\TU/TimesNewRoman(0)/m/n/14.4 TIMESTAMP
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--102
+Underfull \hbox (badness 10000) in paragraph at lines 166--166
 \TU/TimesNewRoman(0)/m/n/14.4 WITH TIME
  []
 
 
-Underfull \hbox (badness 2158) in paragraph at lines 102--102
+Underfull \hbox (badness 2158) in paragraph at lines 166--166
 \TU/TimesNewRoman(0)/m/n/14.4 ZONE, DEFAULT
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--102
+Underfull \hbox (badness 10000) in paragraph at lines 166--166
 \TU/TimesNewRoman(0)/m/n/14.4 CURRENT_
  []
 
-
-
-[36]
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
+[41]
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
 []|\TU/TimesNewRoman(0)/m/n/14.4 INTEGER, FK,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
 \TU/TimesNewRoman(0)/m/n/14.4 projects(project_id). Иденти-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
 []|\TU/TimesNewRoman(0)/m/n/14.4 VARCHAR(255),
  []
 
 
-Overfull \hbox (8.047pt too wide) in paragraph at lines 119--119
+Overfull \hbox (8.047pt too wide) in paragraph at lines 183--183
 []|\TU/TimesNewRoman(0)/m/n/14.4 display_order| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
 []|\TU/TimesNewRoman(0)/m/n/14.4 INTEGER, NOT
  []
 
 
-Underfull \hbox (badness 2158) in paragraph at lines 119--119
+Underfull \hbox (badness 2158) in paragraph at lines 183--183
 \TU/TimesNewRoman(0)/m/n/14.4 NULL, DEFAULT
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
 []|\TU/TimesNewRoman(0)/m/n/14.4 TIMESTAMP
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
 \TU/TimesNewRoman(0)/m/n/14.4 WITH TIME
  []
 
 
-Underfull \hbox (badness 2158) in paragraph at lines 119--119
+Underfull \hbox (badness 2158) in paragraph at lines 183--183
 \TU/TimesNewRoman(0)/m/n/14.4 ZONE, DEFAULT
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
 \TU/TimesNewRoman(0)/m/n/14.4 CURRENT_
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
 []|\TU/TimesNewRoman(0)/m/n/14.4 TIMESTAMP
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
 \TU/TimesNewRoman(0)/m/n/14.4 WITH TIME
  []
 
 
-Underfull \hbox (badness 2158) in paragraph at lines 119--119
+Underfull \hbox (badness 2158) in paragraph at lines 183--183
 \TU/TimesNewRoman(0)/m/n/14.4 ZONE, DEFAULT
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
 \TU/TimesNewRoman(0)/m/n/14.4 CURRENT_
  []
 
-[37]
-Underfull \hbox (badness 10000) in paragraph at lines 132--132
+[42]
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
 []|\TU/TimesNewRoman(0)/m/n/14.4 priority_
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--132
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
 []|\TU/TimesNewRoman(0)/m/n/14.4 VARCHAR(50),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--132
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
 \TU/TimesNewRoman(0)/m/n/14.4 UNIQUE, NOT
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--132
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
 []|\TU/TimesNewRoman(0)/m/n/14.4 INTEGER,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--132
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
 \TU/TimesNewRoman(0)/m/n/14.4 UNIQUE, NOT
  []
 
-[38]
-Underfull \hbox (badness 10000) in paragraph at lines 144--144
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--208
 []|\TU/TimesNewRoman(0)/m/n/14.4 VARCHAR(50),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--144
+Underfull \hbox (badness 10000) in paragraph at lines 208--208
 \TU/TimesNewRoman(0)/m/n/14.4 UNIQUE, NOT
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--144
+Underfull \hbox (badness 10000) in paragraph at lines 208--208
 []|\TU/TimesNewRoman(0)/m/n/14.4 Название типа задачи (на-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--144
+Underfull \hbox (badness 10000) in paragraph at lines 208--208
 \TU/TimesNewRoman(0)/m/n/14.4 пример, ’FRONTEND’,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+
+[43] [44]
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 []|\TU/TimesNewRoman(0)/m/n/14.4 INTEGER, FK,
  []
 
 
-Underfull \hbox (badness 1127) in paragraph at lines 168--168
+Underfull \hbox (badness 1127) in paragraph at lines 232--232
 \TU/TimesNewRoman(0)/m/n/14.4 тор доски, на которой нахо-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 []|\TU/TimesNewRoman(0)/m/n/14.4 INTEGER, FK,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 \TU/TimesNewRoman(0)/m/n/14.4 projects(project_id). Иденти-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 []|\TU/TimesNewRoman(0)/m/n/14.4 VARCHAR(255),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 []|\TU/TimesNewRoman(0)/m/n/14.4 Внешний ключ, ссылается
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 \TU/TimesNewRoman(0)/m/n/14.4 на task_priorities(priority_id).
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 \TU/TimesNewRoman(0)/m/n/14.4 Идентификатор приоритета
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 []|\TU/TimesNewRoman(0)/m/n/14.4 Внешний ключ, ссылает-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 \TU/TimesNewRoman(0)/m/n/14.4 ся на task_types(type_id).
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 []|\TU/TimesNewRoman(0)/m/n/14.4 display_
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 []|\TU/TimesNewRoman(0)/m/n/14.4 INTEGER, NOT
  []
 
 
-Underfull \hbox (badness 2158) in paragraph at lines 168--168
+Underfull \hbox (badness 2158) in paragraph at lines 232--232
 \TU/TimesNewRoman(0)/m/n/14.4 NULL, DEFAULT
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 []|\TU/TimesNewRoman(0)/m/n/14.4 author_
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 []|\TU/TimesNewRoman(0)/m/n/14.4 INTEGER, FK,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 []|\TU/TimesNewRoman(0)/m/n/14.4 developer_
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 []|\TU/TimesNewRoman(0)/m/n/14.4 TIMESTAMP
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 \TU/TimesNewRoman(0)/m/n/14.4 WITH TIME
  []
 
 
-Underfull \hbox (badness 2158) in paragraph at lines 168--168
+Underfull \hbox (badness 2158) in paragraph at lines 232--232
 \TU/TimesNewRoman(0)/m/n/14.4 ZONE, DEFAULT
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 \TU/TimesNewRoman(0)/m/n/14.4 CURRENT_
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 []|\TU/TimesNewRoman(0)/m/n/14.4 TIMESTAMP
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 \TU/TimesNewRoman(0)/m/n/14.4 WITH TIME
  []
 
 
-Underfull \hbox (badness 2158) in paragraph at lines 168--168
+Underfull \hbox (badness 2158) in paragraph at lines 232--232
 \TU/TimesNewRoman(0)/m/n/14.4 ZONE, DEFAULT
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 \TU/TimesNewRoman(0)/m/n/14.4 CURRENT_
  []
 
-[39] [40]) (СписокИсточников.tex
+[45] [46]) (СписокИсточников.tex
 
-[41]
+[47]
 
-[42]
+[48]
 
-[43]
+[49]
 Underfull \hbox (badness 1681) in paragraph at lines 59--60
 []\TU/TimesNewRoman(0)/m/n/14.4 Макфарланд, Д. Новая большая книга CSS / Д. Мак
 фарланд –
@@ -1276,9 +1288,9 @@ Underfull \hbox (badness 1681) in paragraph at lines 59--60
 
 
 
-[44]
+[50]
 
-[45]
+[51]
 LaTeX Font Info:    Font shape `TU/Verdana(0)/m/n' will be
 (Font)              scaled to size 10.07994pt on input line 100.
 
@@ -1295,23 +1307,23 @@ Underfull \hbox (badness 3068) in paragraph at lines 110--111
 
 
 
-[46])
+[52])
 
-[47] (main.aux)
+[53] (main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 41F112CD4E61AC70FA777D9D7DAC9D98;15317.
+(rerunfilecheck)             Checksum: ECC77C585F47A4BCA87583DC7117E098;16763.
  ) 
 Here is how much of TeX's memory you used:
- 15694 strings out of 405056
- 303535 string characters out of 5498522
- 961729 words of memory out of 5000000
- 42130 multiletter control sequences out of 15000+600000
+ 15696 strings out of 405056
+ 303558 string characters out of 5498522
+ 960729 words of memory out of 5000000
+ 42132 multiletter control sequences out of 15000+600000
  628338 words of font info for 74 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,16n,110p,1491b,583s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,16n,110p,1491b,585s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (47 pages).
+Output written on main.pdf (53 pages).

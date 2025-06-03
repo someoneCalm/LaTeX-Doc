@@ -46,5 +46,11 @@
 \contentsline {subsubsection}{\numberline {3.2.3}Библиотека React}{32}{subsubsection.3.2.3}%
 \contentsline {subsubsection}{\numberline {3.2.4}PostgreSQL}{32}{subsubsection.3.2.4}%
 \contentsline {subsection}{\numberline {3.3}Диаграмма компонентов}{32}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Структура базы данных}{34}{subsection.3.4}%
-\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{41}{table.7}%
+\contentsline {subsection}{\numberline {3.4}Структура программы}{34}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Клиентская часть}{34}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Серверная часть}{37}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.3}Клиентские сервисы}{37}{subsubsection.3.4.3}%
+\contentsline {subsubsection}{\numberline {3.4.4}Управление состоянием и стилизация}{38}{subsubsection.3.4.4}%
+\contentsline {subsubsection}{\numberline {3.4.5}Точка входа и конфигурация БД}{38}{subsubsection.3.4.5}%
+\contentsline {subsection}{\numberline {3.5}Структура базы данных}{39}{subsection.3.5}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{47}{table.7}%
